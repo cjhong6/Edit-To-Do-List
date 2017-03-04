@@ -1,0 +1,21 @@
+p.primary{
+  color: red;
+  font-size: 400%;
+}
+
+.list{
+  background-color: red;
+  padding: 10px;
+}
+
+ li input{
+  display: none;
+}
+
+li.edit span{
+  display: none;
+}
+
+li.edit input{
+  display: initial;
+}
